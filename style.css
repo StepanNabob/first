@@ -2,9 +2,39 @@
   width: 40%;
   display: inline-block;
   margin: 2%;
+  padding: 5px;
 }
 .header1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   width: 40%;
+  font-size: small;
   display: inline-block;
-  margin: 2%;
+  margin: 3%;
+  padding: 10px;
+}
+.header ul {
+}
+.nm {
+  width: 400px;
+  margin-left: 60px;
+}
+.kl {
+  box-shadow: #989002 5px 5px 5px 5px;
+}
+.op {
+  box-shadow: #989002 5px 5px 5px 5px;
+  display: inline-block;
+  margin: 3%;
+  padding: 10px;
+  width: 40%;
+  font-size: small;
+}
+.io{
+      background-image: url(top-banner.png);
+      background-repeat: no-repeat;
+}
+.er{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
